@@ -1,3 +1,4 @@
 name: Hackx Cao, A Bad Coder
 markdown: kramdown
 theme: minima
+permalink: /blog/:year/:month/:day/:title
