@@ -1,4 +1,24 @@
 body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+
+/*body {
     margin: 60px auto;
     width: 70%;
 }
@@ -40,4 +60,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
+}*/
