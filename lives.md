@@ -7,12 +7,12 @@ title: the memory belongs to us
 
 ## 2016年12月16日 -- 三亚
 
-![Alt text](/assets/images/sanya/IMG_1891.jpg)
+<img src="/assets/images/sanya/IMG_1891.jpg" width = "300" height = "200" alt="图片名称" align=center />
 
-![Alt text](/assets/images/sanya/IMG_1965.jpg)
+<img src="/assets/images/sanya/IMG_1965.jpg" width = "300" height = "200" alt="图片名称" align=center />
 
-![Alt text](/assets/images/sanya/IMG_1994.jpg)
+<img src="/assets/images/sanya/IMG_1994.jpg" width = "300" height = "200" alt="图片名称" align=center />
 
-![Alt text](/assets/images/sanya/IMG_2145.jpg)
+<img src="/assets/images/sanya/IMG_2145.jpg" width = "300" height = "200" alt="图片名称" align=center />
 
-![Alt text](/assets/images/sanya/IMG_2269.jpg)
+<img src="/assets/images/sanya/IMG_2269.jpg" width = "300" height = "200" alt="图片名称" align=center />
