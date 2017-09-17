@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hackx Cao, A Bad Coder
----
+-北京
 
 <h1><center>我要你</center></h1>
 <h3><center>我要 你在我身旁</center></h3>
@@ -32,5 +32,5 @@ title: Hackx Cao, A Bad Coder
 <h3><center>2008年09月-2012年06月 : 哈尔滨 工 业 大学 </center></h3>
 
 <h1><center>工作经历</center></h1>
-<h3><center>2012年06月-至今 : 摩拜(背景)信息技术有限公司</center></h3>
+<h3><center>2012年06月-至今 : 摩拜(北京)信息技术有限公司</center></h3>
 <h3><center>22015年06月-2017年06月 : 阿里巴巴飞猪事业部 </center></h3>
