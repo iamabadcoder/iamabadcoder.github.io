@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hackx Cao, A Bad Coder
--北京
+---
 
 <h1><center>我要你</center></h1>
 <h3><center>我要 你在我身旁</center></h3>
